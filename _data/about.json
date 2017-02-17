@@ -1,0 +1,14 @@
+{
+    "avatar": "https://raw.githubusercontent.com/wfeii/wangfei1991.github.com_raw_important/master/photo.png",
+    "name": "王飞",
+    "tag": "Android",
+    "desc": "追求极致，完善自我",
+    "skills": {
+        "Android": 7,
+		"设计模式": 5
+    },
+	"reward": [
+	    "https://raw.githubusercontent.com/wfeii/wangfei1991.github.com_raw_important/master/weChat.png",
+		"https://raw.githubusercontent.com/wfeii/wangfei1991.github.com_raw_important/master/ali.jpg"
+	]
+}

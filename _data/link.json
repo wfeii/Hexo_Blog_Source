@@ -1,0 +1,10 @@
+{
+    "social": {
+        "weibo" : "http://weibo.com/2752750211",
+        "github" : "https://github.com/wfeii",
+		"rss" : "/atom.xml"
+    },
+    "extern": {
+	    "raytaylorism主题作者的技术博客" : "http://raytaylorlin.com/"
+    }
+}
